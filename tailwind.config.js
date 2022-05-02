@@ -14,13 +14,14 @@ module.exports = {
       transparent: 'transparent',
       current: 'currentColor',
       'white': '#ffffff',
-      'green': '#5AE4A7',
+      'green': '#A3D8B5',
       'black': '#000',
       'grey': '#E5E5E5',
       'orange': '#F4670B',
       'light-grey': '#F2F2F2',
       'bubble-gum': '#ff77e9',
       'bermuda': '#78dcca',
+      'muted': '#8F8F8F'
     },
     fontFamily: {
       sans: ['Graphik', 'sans-serif'],
